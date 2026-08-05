@@ -90,14 +90,14 @@ export const HOME_CONTENT = {
   eyebrow: "Fresh • Fast • Delicious",
 
   title: [
-     "Great food,",
-     "great moments,",
-     "every day."
+       "Fresh Food,",
+       "Bold Flavours,",
+       "Only at BaQaa."
      ],
 
   subtitle:
-     "Serving delicious food made with quality ingredients, bold flavours, and care. Perfect for dine-in, takeaway, or delivery.",
-  primaryButton: "Call to Order",
+     "Enjoy delicious burgers, pizzas, sandwiches, wraps and more at BaQaa. Freshly prepared with quality ingredients and served with care.",
+  primaryButton: "Call Now",
 
   secondaryButton: "View Menu",
 
@@ -105,45 +105,45 @@ export const HOME_CONTENT = {
     "https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1400&w=1200",
 
   imageAlt:
-    "Signature food item",
+    "BaQaa Signature Food",
 
   signatureTitle:  "Featured Item",
 
-  signatureDish: "Chef's Special",
+  signatureDish: "BaQaa Special",
  },
 
   trust: {
-  rating: "4.8 ★",
-  reviews: "500+ Happy Customers",
+  rating: "4.9 ★",
+  reviews: "68+ Google Reviews",
 
   service:  "Dine-in · Takeaway",
-  serviceInfo: "Fast Delivery Available",
+  serviceInfo: "Fast Food & Quick Service",
 
   timing:  "Open Daily",
-  timingInfo: "See business hours",
+  timingInfo: "2:00 PM – 12:00 AM",
 
-  location:  "Easy to Find",
-  locationInfo: "Convenient Location",
+  location:  "Juhapura",
+  locationInfo: "Ahmedabad",
 },
 
 signatures: {
-  title: "The Signatures",
-  heading:  "Our most loved favourites.",
+  title: "Our Signatures",
+  heading:  "Freshly prepared favourites you'll love.",
   button: "View Full Menu",
   buttonLink: "/menu",
 },
 
 gallery: {
   title: "Our Gallery",
-  heading:  "Take a look before you visit.",
+  heading:  "A glimpse of BaQaa.",
   button: "Full Gallery",
- imageAlt: "Restaurant Gallery",
+ imageAlt: "BaQaa Restaurant Gallery",
 },
 
 reviews: {
   title: "Google Reviews",
   description:
-    "Trusted by customers for delicious food, quality service, and a great dining experience.",
+    "Loved by our customers for fresh food, great taste and friendly service.",
 },
 };
 

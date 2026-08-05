@@ -15,52 +15,51 @@
 // Social Links
 
 export const SITE = {
-  name: "Business Name",
-  tagline: "Fresh Food. Great Taste.",
+  name: "BaQaa",
+  tagline: "Fast Food Restaurant",
   logo: "/logo.png",
   
   description:
-  "Write a short description about your food business here.",
+  "BaQaa is a fast food restaurant in Juhapura, Ahmedabad, serving delicious burgers, pizzas, sandwiches, wraps, and more in a friendly atmosphere.",
 
-  footerLocation: "City · State",
+  footerLocation: "Ahmedabad · Gujarat",
 
   address: {
-  line1: "Street Address",
-  locality: "Area",
-  city: "City",
-  state: "State",
-  postal: "000000",
+  line1: "Shop No. 15, Seventh Heaven Building",
+  locality: "100 Feet Rd, Opp. Al Burooj, Juhapura",
+  city: "Ahmedabad",
+  state: "Gujarat",
+  postal: "380055",
   country: "India",
-  landmark: "Nearby Landmark",
+  landmark: "Opp. Al Burooj",
 },
-  phoneDisplay:  "00000 00000",
-  phoneE164: "+910000000000",
-  whatsappE164:  "910000000000",
-  hoursLabel:  "Open Daily · 10:00 AM – 10:00 PM",
-  hoursOpen:  "10:00",
-  hoursClose: "22:00",
-  priceRange: "₹₹",
+  phoneDisplay:  "90998 81421",
+  phoneE164: "+9190998 81421",
+  whatsappE164:  "9190998 81421",
+  hoursLabel:  "Open Daily · 2:00 PM – 12:00 AM",
+  hoursOpen:  "14:00",
+  hoursClose: "00:00",
+  priceRange: "₹200–₹400",
   rating: {
-            value: 4.5, 
-            count: 100, 
+            value: 4.9, 
+            count: 68, 
           },
   services: [
     "Dine-in", 
     "Takeaway", 
     "Delivery", 
-    "Reservations"
   ],
   cuisines: [
-        "Multi Cuisine",
+        "Fast Food",
      ],
-  swiggyUrl: "https://www.swiggy.com/", // client-editable placeholder
-  googleReviewUrl: "#",
+  swiggyUrl: "https://www.swiggy.com/city/ahmedabad/baqaa-prahlad-nagar-rest1311657", // client-editable placeholder
+  googleReviewUrl: "https://maps.app.goo.gl/rdWt8gVZFM3aJWwr7",
   googleMapsEmbed:
     "",
   googleDirectionsUrl:
-    "#",
+    "https://maps.app.goo.gl/8v6pgXf6FVtQfB7u5",
   social: {
-    instagram: "#",
+    instagram: "https://www.instagram.com/baqaa.india/",
     facebook: "#",
   },
 };
